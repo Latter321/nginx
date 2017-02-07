@@ -17,3 +17,11 @@
 2017/02/04 00:29:11 [notice] 1989#0: signal process started
 2017/02/07 12:59:57 [error] 2002#0: *1 open() "/usr/local/nginx/html/favicon.ico" failed (2: No such file or directory), client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost:8080", referrer: "http://localhost:8080/"
 2017/02/07 22:24:48 [error] 797#0: *1 open() "/usr/local/nginx/html/favicon.ico" failed (2: No such file or directory), client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost:8080", referrer: "http://localhost:8080/"
+2017/02/07 13:34:24 [notice] 2561#0: signal process started
+2017/02/07 14:13:40 [notice] 3219#0: signal process started
+2017/02/07 14:18:48 [error] 3220#0: *1 open() "/usr/local/nginx/z.com/favicon.ico" failed (2: No such file or directory), client: 127.0.0.1, server: z.com, request: "GET /favicon.ico HTTP/1.1", host: "127.0.0.1", referrer: "http://127.0.0.1/"
+2017/02/07 14:20:28 [notice] 3569#0: signal process started
+2017/02/07 14:21:19 [error] 3570#0: *4 open() "/usr/local/nginx/z.com/favicon.ico" failed (2: No such file or directory), client: 127.0.0.1, server: z.com, request: "GET /favicon.ico HTTP/1.1", host: "localhost", referrer: "http://localhost/"
+2017/02/07 14:25:08 [notice] 3872#0: signal process started
+2017/02/07 14:43:01 [notice] 4061#0: signal process started
+2017/02/07 14:43:08 [error] 4062#0: *14 open() "/usr/local/nginx/html/favicon.ico" failed (2: No such file or directory), client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost:2022", referrer: "http://localhost:2022/"
